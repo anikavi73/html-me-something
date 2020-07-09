@@ -4,13 +4,33 @@ body {
       font-family: 'Ariel';
       font-size: 150%;
       margin: 5em 25%;
-      text-align: center;
+      padding-top: 20px;
+      padding-right: 30px;
+      padding-bottom: 50px;
+      padding-left: 80px;
 }
+
 header {
     font-style: italic;
     background-color: blue;
     color: white;
+    text-align: center;
 }
+
 h1{
     font-size: 36px;
+}
+
+#angkortext {
+  font-style: bold;
+  color: green;
+}
+
+.maroonParagraph {
+    color: maroon;
+}
+
+.center {
+    /* margin: auto; */
+    text-align: center;
 }
